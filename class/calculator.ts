@@ -1,4 +1,4 @@
-class calculator {
+export class Calculator {
   /**
    * Add two numbers
    * @param a {number} - The first number
