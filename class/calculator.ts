@@ -9,6 +9,7 @@ export class Calculator {
     return a + b;
   }
 
+  
   /**
    * Subtract two numbers
    * @param a {number} - The first number
