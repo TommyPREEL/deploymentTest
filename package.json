@@ -1,9 +1,8 @@
 {
-  "name": "testdeploiement",
+  "name": "deploymentTest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "directories": {
     "test": "tests"
   },
@@ -13,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MathiasGenibrel/TestDeploiement.git"
+    "url": "git+https://github.com/TommyPREEL/deploymentTest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MathiasGenibrel/TestDeploiement/issues"
+    "url": "https://github.com/TommyPREEL/deploymentTest/issues"
   },
-  "homepage": "https://github.com/MathiasGenibrel/TestDeploiement#readme",
+  "homepage": "https://github.com/TommyPREEL/deploymentTest#readme",
   "devDependencies": {
     "@types/jest": "^29.0.3",
     "jest": "^29.0.3",
